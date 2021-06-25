@@ -1,5 +1,5 @@
 # ConsoleSine
-A simple program that prints a sine wave to the console
+A simple CLI program that prints a sine wave to the console
 
 # Arguments
 1. The character width of the sine wave (int)
